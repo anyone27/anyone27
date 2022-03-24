@@ -1,24 +1,27 @@
 - 👋 Hi, I’m @anyone27
 
 - 👀 I’m interested in ...
-- - Completing CS50W through EdX
-- - Changing careers
+- - Furthering my Web Development career
+- - Upskilling and Professional Development
 - - Travelling
 - - Positive Social Change
 
 - 🌱 I’m currently learning ...
-- - Python
+- - React.js
 - - JavaScript
 - - Web Design
+- - Node.js
+- - Python
 - - Flask
 - - Django
 
 - 💞️ I’m looking to collaborate on ...
-- - Open Source projects to help me develop my skills and practice writing good code
+- - Open Source projects to help me develop my skills
 
 - 📫 How to reach me ...
 - - GitHub
-- - TBC
+- - [https://joshcallarman.com](joshcallarman.com)
+- - contact@joshcallarman.com
 
 <!---
 anyone27/anyone27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
