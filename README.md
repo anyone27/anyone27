@@ -8,9 +8,14 @@
 
 ## 🌱 I’m currently learning ...
 - React.js
+- Next.js
 - JavaScript
 - Web Design
 - Node.js
+- SQL
+- SASS
+- Jest
+- Cypress
 - Python
 - Flask
 - Django
